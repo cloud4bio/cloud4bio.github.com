@@ -1,41 +1,14 @@
-## Cloud 4 Bio 
-C4B meets every Wednesday 9-noon at xxxxx to experiment and keep up with advances in the use of Cloud and Web Computing for Cancer Research. This is a coder's meeting so please bring your laptop and your problems. The data intensive nature of this domain favors the creation and analysis of BigData that can then be used to contextualize individual observations - the essence of the idea of Personalized Medicine. The development of Serverless Web Applications and Services are a major practical focus of this group. We'll also  
+# Cloud 4 Bio 
+C4B meets every Wednesday 9-noon at xxxxx to experiment and keep up with advances in the use of Cloud and Web Computing for Cancer Research. This is a coder's meeting so please bring your laptop and your problems. The data intensive nature of this domain calls for the creation and analysis of BigData that can then be used to contextualize individual observations - the computational essence of Personalized Medicine. The development of [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) Web Services and Applications are therefore a major practical focus of this group.
 
+## Learning languages
+Being a programmer is not a requirement, but wanting to be one definitely is. If you don't have a programmer habit already it may help to first camp out at [freecodecamp.org](https://www.freecodecamp.org/). You are of course welcome to bring your own experience with other programming environments, particularly those geared towards Data Science applications.
 
-## Welcome to GitHub Pages ...
+## How to join in
+Just show up at NCI Shaddy Grove and introduce yourself. Remote participation will also be available after that.
 
-You can use the [editor on GitHub](https://github.com/cloud4bio/cloud4bio.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Frequency
+The space is available weekly, you are welcome whenever you have the time, or a problem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cloud4bio/cloud4bio.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+[Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas) and Jason Levine (https://ccr.cancer.gov/jason-e-levine).
