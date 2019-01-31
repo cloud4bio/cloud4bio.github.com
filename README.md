@@ -6,11 +6,8 @@ C4B meets every Wednesday 9-noon at xxxxx to experiment and keep up with advance
 ## Languages
 Being a programmer is not a requirement, but wanting to be one definitely is. If you don't have a programmer habit already, it may help to first camp out at [freecodecamp.org](https://www.freecodecamp.org/). While JavaScript (from browser to node) indeed is *"the assembler language of the Web"*, you are of course welcome to prosetelize other programming environments, particularly those geared towards Data Science and Machine Learning applications such as R and Python. Remember this is about portable applications and services at scale. Cloud FaaS (Function as a Service) such as AWS Lambda, Google Functions, Azure functions or virtualized applications will still have to be able to carry the load. In that regard, higher level BaaS (Backend-as-a-Service) such as GraphQL, the interoperability mechanism of [Data Commons](https://commonfund.nih.gov/commons) such as as [gdc.cancer.gov](https://gdc.cancer.gov), are particulalry welcome.
 
-## Join in
-Show up at the NCI Shaddy Grove meeting site and introduce yourself. Remote participation will also be available after that.
-
-## Frequency
-The space is available weekly, you are welcome whenever you have the time, or a problem.
+## Join
+Show up at the NCI Shaddy Grove meeting site and introduce yourself. Remote participation will also be available after that. The space is available weekly, you are welcome whenever you have the time, or a problem.
 
 ### Contact
 [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas) and [Jason Levine](https://ccr.cancer.gov/jason-e-levine). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com).
