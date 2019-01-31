@@ -1,4 +1,6 @@
-# Cloud 4 Bio 
+Live at [cloud4bio.github.io](cloud4bio.github.io)!
+
+# [Cloud 4 Bio](cloud4bio.github.io) 
 C4B meets every Wednesday 9-noon at xxxxx to experiment and keep up with advances in the use of Cloud and Web Computing for Cancer Research. This is a coder's meeting so please bring your laptop and your problems. The data intensive nature of this domain calls for the creation and analysis of BigData that can then be used to contextualize individual observations - the computational essence of Personalized Medicine. The development of [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) Web Services and Applications are therefore a major practical focus of this group.
 
 ## Learning languages
