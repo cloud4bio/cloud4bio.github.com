@@ -1,6 +1,5 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](http://bit.ly/cloud4bio)!
 
- * March 13th session canceled - NCI's yearly research retreat
  * Next session **March 27th, 2019 @ room 2E908**
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
 
