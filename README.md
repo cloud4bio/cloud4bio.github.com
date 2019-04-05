@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](http://bit.ly/cloud4bio)!
 
- * Next session **April 3rd, 2019 @ room 6E032/34**
+ * Next session **April 10, 2019 @ room 5E030**
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
