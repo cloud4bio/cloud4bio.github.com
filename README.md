@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](http://bit.ly/cloud4bio)!
 
- * Next session **April 24, 2019 @ 9am room 5E030** <-- <span style="background-color:yellow;color:blue">NOTICE NEW START TIME IS 9 AM</span>
+ * Next session **April 24, 2019 @ 9am room 5E030** <span style="background-color:yellow;color:blue">&#8592; NOTICE NEW START TIME IS 9 AM</span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
