@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](http://bit.ly/cloud4bio)!
 
- * Next session **May 1st, 2019 @ 9am at ATC** &#8592; <span style="background-color:yellow;color:red"> Notice new start time, 9 AM, and location at ATC (a first)</span>
+ * Next session **May 1st, 2019 @ 9am at CGR** &#8592; <span style="background-color:yellow;color:red"> Notice new start time, 9 AM, and location at ATC 12 mins away</span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
