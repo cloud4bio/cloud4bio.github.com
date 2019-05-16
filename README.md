@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * **Last session [May 15th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-05-15-may)** is online. We break for two weeks to onboard GCP and (some of you) work on your finals. **Next session is June 5th 2019 @ 9:30am at 7E030**. Assuming onboarding goes well, using [Google Cloud Platform (GCP) through STRIDES](https://www.nih.gov/news-events/news-releases/nih-makes-strides-accelerate-discoveries-cloud) will be the main topic.
+ * **Last session [May 15th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-05-15-may)** is online. We break for two weeks to onboard GCP and attend the ITCR yearly conference. **Next session is June 5th 2019 @ 9:30am at 7E030**. Assuming onboarding goes well, using [Google Cloud Platform (GCP) through STRIDES](https://www.nih.gov/news-events/news-releases/nih-makes-strides-accelerate-discoveries-cloud) will be the main topic.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
@@ -14,4 +14,4 @@ Being a programmer is not a requirement, but wanting to be one definitely is. If
 Just show up at the meeting site and introduce yourself. Remote participation will also be available after that. The space is available weekly, you are welcome whenever you have the time, or a problem. Better both. To engage and contribute to agenda use wiki at [bit.ly/cloud4bio](https://bit.ly/cloud4bio).
 
 ### Contact
-[Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas) and [Jason Levine](https://ccr.cancer.gov/jason-e-levine). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com).
+[Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com).
