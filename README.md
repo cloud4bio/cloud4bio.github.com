@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * **Last session [May 15th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-05-15-may)** is online. We break for two weeks to onboard GCP and (some of you) work on your finals. **Next session is June 5th 2019 @ 9:30am at 7E030**
+ * **Last session [May 15th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-05-15-may)** is online. We break for two weeks to onboard GCP and (some of you) work on your finals. **Next session is June 5th 2019 @ 9:30am at 7E030**. Assuming onboarding goes well, using [Google Cloud Platform (GCP) through STRIDES](https://www.nih.gov/news-events/news-releases/nih-makes-strides-accelerate-discoveries-cloud) will be the main topic.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
