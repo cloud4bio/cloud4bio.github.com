@@ -1,6 +1,7 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * **Next session is [July 3rd](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-06-19-jun) 2019 @ 9:30am at 7E030**
+ * **GCP immersive July 8-10** https://cloud.google.com/training/courses/data-to-insights 
+ * **Next session is [July 24th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-07-24-jun) 2019 @ 9:30am at 7E030**
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
@@ -15,3 +16,7 @@ Just show up at the meeting site and introduce yourself. Remote participation wi
 
 ### Contact
 [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com).
+
+### Other hackathons
+* http://www.biohackathon.org
+* https://biohackathons.github.io
