@@ -1,7 +1,7 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
  * **GCP immersive July 8-10** [cloud.google.com/training/courses/data-to-insights](https://cloud.google.com/training/courses/data-to-insights) 
- * **Next session (our first plenary with external participants!) is [August 7th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-08-07-ago) 2019 @ 9:30am at 7E030** 
+ * **Next session is [August 14th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-08-14-ago) 2019 @ 9:30am at 7E030** 
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
 
