@@ -3,7 +3,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  * **GCP immersive July 8-10** [cloud.google.com/training/courses/data-to-insights](https://cloud.google.com/training/courses/data-to-insights) 
  * **Next session is [August 21th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-08-21-ago) 2019 @ 9:30am at 7E030** 
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
- * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733).
+ * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
 # [Cloud 4 Bio](https://cloud4bio.github.io) 
 Starting March 6, 2019, C4B meets every Wednesday 10 AM to noon at NCI Shady Grove TE420 (webconf [gotomeeting](https://global.gotomeeting.com/join/751234733)) to experiment and keep up with advances in the use of Cloud and Web Computing for Cancer Research. This is a coder's meeting so please bring your laptop and your problems. The data intensive nature of this domain calls for the creation and analysis of BigData that can then be used to contextualize individual observations - the computational essence of [Precision Medicine](https://www.cancer.gov/research/areas/treatment/pmi-oncology). The development of [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) Web Services and Applications are therefore a major practical focus of this group.
