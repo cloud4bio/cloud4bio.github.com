@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [September 25th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-09-25-sep?authuser=0) 2019 @ 9:30am at 7E030** </span>
+ * <span style="background-color:yellow">**Next session is [October 2nd](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-10-02-sep?authuser=0) 2019 @ 9:30am at 7E030** </span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
