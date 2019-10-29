@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [October 23th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-10-23-oct?authuser=0) 2019 @ 9:30am at 7E030** - FaaS & epi cli</span>
+ * <span style="background-color:yellow">**Next session is [October 31st](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-10-31-oct?authuser=0) 2019 @ 9:30am at 7E030** - FaaS & epi cli</span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
