@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [December 4th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-12-04-dec?authuser=0) 2019 @ 9:30am at 7E030** - github integration, epiBox initiative, questionnaires </span>
+ * <span style="background-color:yellow">**Next session is [December 11th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-12-11-dec?authuser=0) 2019 @ 9:30am at 7E030** - github workflows, persistent storage, webassembly</span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
