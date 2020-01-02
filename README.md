@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [December 18th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2019-12-18-dec?authuser=0) 2019 @ 9:30am at 7E030** - Google's Terra, ES6 import/export </span>
+ * <span style="background-color:yellow">**Next session is [January 8th](https://sites.google.com/mathbiol.org/cloud4bio/2019/2020-01-08-dec?authuser=0) 2020 @ 9:30am at 7E030** - happy New Year, best practices, OAUTH2ed analytics in different languages. </span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
