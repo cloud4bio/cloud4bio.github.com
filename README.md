@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [January 8th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-01-08-jan) 2020 @ 9:30am at 7E030** - happy New Year, best practices, OAUTH2ed analytics, questionnaires. </span>
+ * <span style="background-color:yellow">**Next session is [January 15th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-01-15-jan) 2020 @ 9:30am at 7E030** - FaaS in GCP with Python, CBIIT is visiting </span>
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
