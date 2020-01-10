@@ -17,5 +17,6 @@ Just show up at the meeting site and introduce yourself. Remote participation wi
 [Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com).
 
 ### Other hackathons
-* http://www.biohackathon.org
-* https://biohackathons.github.io
+* [ncihub.org](https://ncihub.org/) <-- start here!
+* [biohackathon.org](http://www.biohackathon.org)
+* [biohackathons.github.io](https://biohackathons.github.io)
