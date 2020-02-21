@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [February 26th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-02-26-feb) 2020 @ 9:30am at 7E030** - Progressive Web Apps (PWAs), from asynchronicity to agent based ditribution </span>.
+ * <span style="background-color:yellow">**Next session is [February 26th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-02-26-feb) 2020 @ 9:30am at 7E030** - Pathology AI, from AutoML to TF.js (Praful will hold our hand while walking us through :-) ) </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
@@ -14,7 +14,7 @@ Being a programmer is not a requirement, but wanting to be one definitely is. If
 Just show up at the meeting site and introduce yourself. Remote participation will also be available after that. The space is available weekly, you are welcome whenever you have the time, or a problem. Better both. To engage and contribute to agenda use wiki at [bit.ly/cloud4bio](https://bit.ly/cloud4bio).
 
 ### Contact
-[Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com).
+[Jonas Almeida](https://dceg.cancer.gov/about/staff-directory/biographies/A-J/almeida-jonas). Edit this page at [source](https://github.com/cloud4bio/cloud4bio.github.com/edit/master/README.md).
 
 ### Other hackathons
 * [ncihub.org](https://ncihub.org/) <-- start here!
