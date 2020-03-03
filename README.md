@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [February 26th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-03-04-mar) 2020 @ 9:30am at 7E030** - Computational Statistics at scale, AI novelty indexes </span>.
+ * <span style="background-color:yellow">**Next session is [March 4th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-03-04-mar) 2020 @ 9:30am at 7E030** - Computational Statistics at scale, AI novelty indexes </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
