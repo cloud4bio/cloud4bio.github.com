@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [March 18th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-03-18-mar) 2020 @ 9:30am at 7E030** - hack continuation: application distribution as a consumer facing service </span>.
+ * <span style="background-color:yellow">**Next session is [March 18th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-03-25-mar) 2020 @ 9:30am at 7E030** - AI at the edge </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
