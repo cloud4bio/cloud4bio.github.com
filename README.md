@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [April 15th](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-04-15-apr) 2020 @ 9:30am at 7E030** - epiBox, from Cloud to Web </span>.
+ * <span style="background-color:yellow">**Next session is [April 22<sup>nd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-04-22-apr) 2020 @ 9:30am at 7E030** - PowerApps, Computational Genomics </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
