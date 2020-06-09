@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [June 3<sup>rd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-06-03-jun) 2020 @ 9:30am at 7E030** - Gitter review, CBIIT data science </span>.
+ * <span style="background-color:yellow">**Next session is [June 10<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-06-10-jun) 2020 @ 9:30am at 7E030** - Cloud 3.0 </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
