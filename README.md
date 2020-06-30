@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [July 1<sup>st</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-07-01-jun) 2020 @ 9:30am at 7E030** - Mortality tracker, Federated Learning</span>.
+ * <span style="background-color:yellow">**Next session is [July 1<sup>st</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2010-07-01-jul) 2020 @ 9:30am at 7E030** - Mortality tracker, Federated Learning</span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconf - 9:30 [WebEx](9:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
