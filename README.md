@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [August 5<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-08-05-jul) 2020 @ 9:30am at 7E030** - hands-on Terra, from Computational Genomics to Epidemiology </span>.
+ * <span style="background-color:yellow">**Next session is [August 5<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-08-05-aug) 2020 @ 9:30am at 7E030** - hands-on Terra, from Computational Genomics to Epidemiology </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference 9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
