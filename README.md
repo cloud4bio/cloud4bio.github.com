@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [August 12<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-08-12-aug) 2020 @ 9:30am at 7E030** - data spaces, its modelling and governance </span>.
+ * <span style="background-color:yellow">**Next session is [August 26<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-08-26-aug) 2020 @ 9:30am at 7E030** - governing federated data management and analysis</span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference 9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
