@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [November 4<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-11-04-nov) 2020 @ 9:30am at 7E030** - Praful presents One-shot learning (AI), check google devs conf </span>.
+ * <span style="background-color:yellow">**Next session is [November 18<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-11-18-nov) 2020 @ 9:30am at 7E030** - (Nov 11 holliday) Eric Stahlberg, AI at Biomedical Informatics and Data Science (BIDS) </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference 9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
