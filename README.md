@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">**Next session is [December 2<sup>nd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-12-02-dec) 2020 @ 9:30am at 7E030** - logistic regression with and without NN, the big picture </span>.
+ * <span style="background-color:yellow">**Next session is [December 9<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2020/2020-12-02-dec) 2020 @ 9:30am at 7E030** - G Worspace data services, CRDC Cancer Data Agregator </span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference 9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
