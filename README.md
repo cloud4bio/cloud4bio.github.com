@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">Next session is [January 27<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-01-27-jan) Augmented reality at the edge (in the Microscope) - Google presentation</span>.
+ * <span style="background-color:yellow">Next session is [February 3<sup>rd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-02-03-feb) Distributed computing; Review of ongoing projects</span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference 9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
