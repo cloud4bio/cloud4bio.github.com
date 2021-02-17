@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * <span style="background-color:yellow">Next session is [February 10<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-02-10-feb) ... continuation of <a href="https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-02-03-feb">Feb 3<sup>rd</sup> topics</a></span>.
+ * <span style="background-color:yellow">Next session is [February 17<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-02-17-feb) ServiceNow-aaS, Digital Pathology, LOD, API ecosystems ?</span>.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference 9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733). 
 
