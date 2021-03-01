@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[February 24<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-02-24-feb)</span>: 1st journal club, separating data science (journal club 9:30-10:30) from hands-on engineering (hackathon 10:30-11:30).
+ * Next session is <span style="background-color:yellow">[March 3<sup>rd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-03-03-mar)</span>: journal club - Federated Learning; Hackathon: d3js, FAIR.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
