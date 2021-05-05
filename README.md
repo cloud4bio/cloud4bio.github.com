@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[May 5<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-05-05-may)</span>: Journal Club - Manifold learning; Hackaton - Custom objects, Travelling code, finish Quest discussion...
+ * Next session is <span style="background-color:yellow">[May 5<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-05-05-may)</span>: Journal Club - Reactive, Reproducible Notebooks; Hackaton - Data Platform, finish Quest discussion...
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
