@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[June 9<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-06-09-jun)</span>: Journal Club - Mutation signatures; Hackaton - static serving in GCP from GitHub branches, PLCO projects.
+ * Next session is <span style="background-color:yellow">[June 16<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-06-16-jun)</span>: Journal Club - Alignment+Scale-free iterated maps; Hackaton - PLCO usingJS documentation, ISB BigQuery exploits, Nicole.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
