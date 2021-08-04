@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[June 14<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-07-14-jul)</span>: Journal Club - Identifying Mutational Signatures from Sparse Mutation Data - Aaron Ge ; Hackaton - BigQuery epiBox, module check.
+ * Next session is <span style="background-color:yellow">[August 4<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-08-04-aug)</span>: Journal Club - Forecasting: Principles and Practice (3rd ed) by Rob J Hyndman and George Athanasopoulos - Aaron Ge ; Hackaton - Eric's PLCO API, Connect.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
