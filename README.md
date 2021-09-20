@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[September 22<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-09-22-sep)</span>: Journal Club: data platform IDIQ; Hackathon: hands-on, governance, epibox, qaqc etc ...
+ * Next session is <span style="background-color:yellow">[September 22<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-09-22-sep)</span>: Journal Club: WebPlatform; Hackathon: data platform IDIQ, hands-on, governance, epibox, qaqc etc ...
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
