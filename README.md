@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[October 13<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-10-13-oct)</span>: Journal Club: the revenge of the NN; Hackathon: modules, remote image analysis, and concepts.
+ * Next session is <span style="background-color:yellow">[October 19<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-10-19-oct)</span>: Journal Club: Insights Into Mutational Processes in the Human Germline from Whole-Genome Sequencing (Wendy Wong); Hackathon: Arrays with alphanumeric and numeric indexes, local web applications using File API. Web read/write. Forecasting updates.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
