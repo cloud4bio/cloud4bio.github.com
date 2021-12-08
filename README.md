@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[December 8<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-12-08-dec)</span>: Genomic Signature portal (CBIIT/Sherlock), simplest semantic data midlelayers, GraphQL, BigQuery fest.
+ * Next session is <span style="background-color:yellow">[December 8<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-12-08-dec)</span>: Simplest semantic data midlelayers, GraphQL, BigQuery fest.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
