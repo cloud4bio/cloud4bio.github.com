@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[December 29<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2021/2021-12-29-dec)</span>: Bioinformatics death (again), The fellowship of Tensorflow, part 2 of 3.
+ * Next session is <span style="background-color:yellow">[January 5<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-01-05-jan)</span>: Genomic signals, The fellowship of Tensorflow, part 2b of 3.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
