@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[January 12<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-01-12-jan)</span>: Review of Starboard and other client'side Notebooks. Hackaton on SDK developemnt in preparation for Friday FAIR special session requested by Connect.
+ * Next session is <span style="background-color:yellow">[January 19<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-01-19-jan)</span>: Review of Chaos Game genomic analysis applications to Bioinformatics. Open hack.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
