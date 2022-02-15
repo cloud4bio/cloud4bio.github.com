@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[February 2<sup>nd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-02-02-feb)</span>: Simple versus complex forecasting: The evidence; The good trojan horse, from Connect to Confluence and BigQuery analytics. Colab.
+ * Next session is <span style="background-color:yellow">[February 16<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-02-16-feb)</span>: Simple versus complex forecasting: The evidence; The good trojan horse, from Connect to Confluence and BigQuery analytics. Colab.
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
