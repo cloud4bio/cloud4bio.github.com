@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[March 23<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-03-23-mar)</span>: Sequence to Sequence Learning with Neural Networks. Analyst onboarding, what have we learned.
+ * Next session is <span style="background-color:yellow">[March 28<sup>th</sup>](https://bit.ly/aiunconference)</span>: this week we have something different, instead of the regular Cloud4Bio, Wednesday, we host our first unconference, Monday (https://bit.ly/aiunconference).
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
