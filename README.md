@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[April 20<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-04-20-apr)</span> FAIR Workshop - collaborative analytics with <b>RStudio on Box</b>. <span style="color:red"><-- note it starts at 9:00, not 9:30!</span>
+ * Next session is <span style="background-color:yellow">[April 20<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-04-27-apr)</span> - NIH Data Ecosystem.
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:00-12:00 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
