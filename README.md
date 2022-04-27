@@ -3,7 +3,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  * Next session is <span style="background-color:yellow">[April 27<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-04-27-apr)</span> - NIH Data Ecosystem, epiDonate, Melanoma.
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
- * webconference <span style="background-color:yellow">9:00-12:00 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
+ * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
 
 # [Cloud 4 Bio](https://cloud4bio.github.io) 
 Starting March 6, 2019, C4B meets every Wednesday 9:30-11:30 AM at NCI Shady Grove 7E030 (webconf [gotomeeting](https://global.gotomeeting.com/join/751234733)) to experiment and keep up with advances in the use of Cloud and Web Computing for Cancer Research. This is a coder's meeting so please bring your laptop and your problems. The data intensive nature of this domain calls for the creation and analysis of BigData that can then be used to contextualize individual observations - the computational essence of [Precision Medicine](https://www.cancer.gov/research/areas/treatment/pmi-oncology). The development of [Serverless](https://en.wikipedia.org/wiki/Serverless_computing) Web Services and Applications are therefore a major practical focus of this group.
