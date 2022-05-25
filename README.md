@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[May 18<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-05-18-may)</span> - Spacial correlation by webMoran; serverless edge computing, ES6 imports shared scope.
+ * Next session is <span style="background-color:yellow">[May 25<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-05-25-may)</span> - AutoTiling for AutoML - TFjs, client side training as a step towards federated learning
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
