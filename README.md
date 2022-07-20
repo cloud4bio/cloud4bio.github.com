@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[July 13<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-07-13-jul)</span> - Quantilization to handle variance, Client-Side Modeling for WSI (Amit) TensorFlow.js (MobileNet) training on dynamically extracted WSI tiles. Summer internship update, hackathon. 
+ * Next session is <span style="background-color:yellow">[July 20<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-07-20-jul)</span> - Adit's edge functions with CloudFlare for epiDonate; epiTracker & disparities update (Lee and Lorena) - hackathon. 
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
