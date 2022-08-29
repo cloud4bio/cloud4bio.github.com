@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session is <span style="background-color:yellow">[August 31<sup>st</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-08-31-aug)</span> - Scentient turing machines, WebRTC P2P for distributed computing/learning. 
+ * Next session is <span style="background-color:yellow">[August 31<sup>st</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-08-31-aug)</span> - Climate Change and Cancer, Scentient turing machines, WebRTC P2P for distributed computing/learning. 
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#).
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
  * webconference <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
