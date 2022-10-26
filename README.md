@@ -1,7 +1,9 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session [<span style="background-color:yellow">October 19<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-10-19-oct) - Dimensionality reduction with neural networks; Hands-on TensorFlow.js Worshop 1/3.
- *  Webconference link: <span style="background-color:yellow">9:30-11:30 [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
+ * Next session [<span style="background-color:yellow">October 26<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-10-26-oct) - Hands-on TensorFlow.js Worshop 2/3.
+ * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
+ * Time: <span style="background-color:yellow">Wednesdays 9:30-11:30</span>
+ * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#); note search of previous session (since Oct 2019) in the top right corner of the wiki.
  * **Posdoctoral positions opened**: [careers.iscb.org/jobs/view/6543](https://careers.iscb.org/jobs/view/6543).
 
