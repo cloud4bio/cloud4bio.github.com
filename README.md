@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session [<span style="background-color:yellow">November 9<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-11-09-nov) - Hands-on TensorFlow.js Worshop 3/3.
+ * Next session [<span style="background-color:yellow">November 9<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-11-09-nov) - Hands-on TensorFlow.js Worshop part IV.
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30-11:30</span>
  * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
