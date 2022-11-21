@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session [<span style="background-color:yellow">November 16<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-11-16-nov) - AI Interpretation, web app from zero to PWA
+ * Next session [<span style="background-color:yellow">November 23<sup>rd</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2022/2022-11-23-nov) - hands-on: from a calculator to a PRS risk calculator.
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30-11:30</span>
  * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
