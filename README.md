@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session [<span style="background-color:yellow">January 1<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-01-04-dec) - State of the DSEG union - manuscripts and workflows, epiVerse, AI
+ * Next session [<span style="background-color:yellow">January 1<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-01-04-jan) - State of the DSEG union - manuscripts and workflows, epiVerse, AI
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30-11:30</span>
  * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
