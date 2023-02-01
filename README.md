@@ -1,9 +1,9 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
- * Next session [<span style="background-color:yellow">January 25<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-01-25-jan) - Observable UI engines, Adalberto Filho and [IARC](https://www.iarc.who.int). 
+ * Next session [<span style="background-color:yellow">February 1<sup>st</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-02-01-feb) - Platform development - prs, mSig, epiTracker. 
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30-11:30</span>
- * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733)</span>. 
+ * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733) --> [MSTeams](https://developer.mozilla.org/en-US/docs/Web/API/CacheStorage)</span>. 
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#); note search of previous session (since Oct 2019) in the top right corner of the wiki.
  * **Data Science Fellowships open**: <a href="https://dceg.cancer.gov/fellowship-training/apply/dserg" target="_blank">https://dceg.cancer.gov/fellowship-training/apply/dserg</a>.
 
