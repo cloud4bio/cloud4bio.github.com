@@ -3,7 +3,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  * Next session [<span style="background-color:yellow">February 22<sup>nd</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-02-22-feb) - Metabolic Epidemiology, Stadtman presentation and data platform. 
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30-11:30</span>
- * Online: <span style="background-color:yellow"> [gotomeeting](https://global.gotomeeting.com/join/751234733) --> [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdiMzFiZWQtMTMyZi00Zjk1LTkxODUtMTlkODg3YWUwZjFm%40thread.v2/0?context=%7b%22Tid%22%3a%2214b77578-9773-42d5-8507-251ca2dc2b06%22%2c%22Oid%22%3a%22d0729f68-7d47-4e95-a9e7-3a40f12b6819%22%7d)</span>. 
+ * Online: <span style="background-color:yellow"> <!-- [gotomeeting](https://global.gotomeeting.com/join/751234733) --> [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdiMzFiZWQtMTMyZi00Zjk1LTkxODUtMTlkODg3YWUwZjFm%40thread.v2/0?context=%7b%22Tid%22%3a%2214b77578-9773-42d5-8507-251ca2dc2b06%22%2c%22Oid%22%3a%22d0729f68-7d47-4e95-a9e7-3a40f12b6819%22%7d)</span>. 
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#); note search of previous session (since Oct 2019) in the top right corner of the wiki.
  * **Data Science Fellowships open**: <a href="https://dceg.cancer.gov/fellowship-training/apply/dserg" target="_blank">https://dceg.cancer.gov/fellowship-training/apply/dserg</a>.
 
