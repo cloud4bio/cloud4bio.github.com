@@ -2,7 +2,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
 
  * Next session: [<span style="background-color:yellow">Jun 7<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-06-07-jun) - IARC presentation, P2P demo, Medicaid API, SDK design.
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
- * Time: <span style="background-color:yellow">Wednesdays <s>9:30</s> 9:00-<s>11:30</s>11:00</span> 
+ * Time: <span style="background-color:yellow">Wednesdays <s color:red>9:30</s> 9:00-<s color:red>11:30</s>11:00</span> 
  * Online: <span style="background-color:yellow"> [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NjdiMzFiZWQtMTMyZi00Zjk1LTkxODUtMTlkODg3YWUwZjFm%40thread.v2/0?context=%7b%22Tid%22%3a%2214b77578-9773-42d5-8507-251ca2dc2b06%22%2c%22Oid%22%3a%22d0729f68-7d47-4e95-a9e7-3a40f12b6819%22%7d)</span>. 
  * Journal club / speakers [upcoming](https://docs.google.com/document/d/1ADVPnpa5jCIvb9VWBvDIewTeBFdoj2-NrTwZEs-BUio/edit#); note search of previous session (since Oct 2019) in the top right corner of the wiki.
  * **Data Science Fellowships open**: <a href="https://dceg.cancer.gov/fellowship-training/apply/dserg" target="_blank">https://dceg.cancer.gov/fellowship-training/apply/dserg</a>.
