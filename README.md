@@ -1,5 +1,3 @@
-[data science talk](https://docs.google.com/document/d/1rWx588wHOeJTb-cqgdYKlHMMXN2pwVl8kecR-IXLpQQ)
-
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
 
  * Next session: [<span style="background-color:yellow">July 12<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2023/2023-07-12-jul) - note <span style="color:red;background-color:yellow">we skip July 5th !</span>
