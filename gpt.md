@@ -1,5 +1,7 @@
 GPT Workshop, see Wendy email
-!()[]
+
+![https://bit.ly/cgrgpt](https://github.com/cloud4bio/cloud4bio.github.com/blob/master/bit.ly_cgrgpt.png?raw=true)
+
 https://bit.ly/cgrgpt
 ## Sep 21, 1pm, CGR 1st floor conference room
 Also online via [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NGU4MDg5ZWUtYzk0MS00NDcwLWIyYWEtYzdiZTYzYTkxMDdk%40thread.v2/0?context=%7b%22Tid%22%3a%2214b77578-9773-42d5-8507-251ca2dc2b06%22%2c%22Oid%22%3a%22d0729f68-7d47-4e95-a9e7-3a40f12b6819%22%7d)
