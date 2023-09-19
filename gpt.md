@@ -28,5 +28,12 @@ Who pays and who governs
 
 ## Discussion: 
 What LLMs are and what they are not
-GPT provides the missing resource discovery and orchestration language. The analytical workflows, such as Bioinformatics, are external to GPT ... until you weave them in. This will be illustrated with applications to genomics. A brief demonstration of GPT functions, the next frontier, concludes the workshop.
-Contention point: without APIs there is no data science - or scalable bioinformatics for that matter. There is just bondage to unFAIR interfaces and expensive VMs. If we fail to pass this message all we achieve with the workshop is entertainment.*
+
+GPT provides the missing resource discovery and orchestration language.
+
+The analytical workflows, such as Bioinformatics, are external to GPT ... until you weave them in.
+
+This will be illustrated with applications to genomics. A brief demonstration of GPT functions, the next frontier, concludes the workshop.
+
+### Contention point: 
+Without APIs there is no data science - or scalable bioinformatics for that matter. There is just bondage to unFAIR interfaces and expensive VMs. If we fail to pass this message all we achieve with the workshop is entertainment.*
