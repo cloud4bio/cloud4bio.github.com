@@ -1,7 +1,6 @@
-## GPT Workshop, see Wendy email
-
+GPT Workshop, see Wendy email
 ## Sep 21, 1pm, CGR 1st floor conference room
-LLM GPT programmatic and hands-on
+# LLM GPT programmatic and hands-on
 
 ### Learn how GPT works, and how you can make it work for you.
 
