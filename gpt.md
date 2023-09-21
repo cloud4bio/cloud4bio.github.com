@@ -10,7 +10,7 @@ Also online via [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting
 
 ## * Why APIs?
 So you can use your favorite language, as part of your own analytics workflows.
-It also helps you have someone else pay for it. We'll return to this at the end #5
+It also helps you have someone else pay for it. We'll return to this at the end, in the open-ended Discussion period.
 ## * Get and manage API keys
 OpenAI will give you $5 worth of tokens to get started
 https://platform.openai.com/account/api-keys
