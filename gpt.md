@@ -22,9 +22,10 @@ Using the embedding API to map prompts to a numeric coordinate space, where you 
 https://platform.openai.com/docs/guides/embeddings/what-are-embeddings
 ## * Bioinformatics resource discovery and orchestration
 How to operate GPT from the command line and from RStudio. Install TheOpenAIR package (http://openair-lib.org) and register your OpenAI key with the function openai_api_key. For an example embedded in a web app see https://episphere.github.io/gpt.
+## * Functions and extensions
+This space is evolving very fast with competing frameworks. We'll try functions first trying to decide about taking an umbrella, and then have a look at plugins/extensions [news alert](https://bard.google.com/extensions). Note the latter can be orchestrated by the former: you can have it operate your own bioinformatics workflows!
 ## * Money and governance
 Who pays and who governs 
-
 ## Discussion: 
 What LLMs are and what they are not
 
