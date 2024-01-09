@@ -1,4 +1,4 @@
-Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)!
+Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
  * Latest/Next session: [<span style="background-color:yellow">January 10<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2024/2024-01-10-jan) - finishing news from NeurIPS 2023, delivering AI Assistants, dearraying update, publication models, publisher's approach to LLMs.
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
