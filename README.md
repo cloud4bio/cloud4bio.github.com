@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Latest/Next session: [<span style="background-color:yellow">June 12<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2024/2024-06-12-jun?authuser=0) (<span style="color:red">&rarr;Summer break, we're back &rarr;</span>) [<span style="background-color:yellow">July 10<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2024/2024-07-10-jul)- whole-slide foundation model for digital pathology from real-world data.
+ * Latest/Next session: [<span style="background-color:yellow">July 10<sup>th</sup></span>](https://sites.google.com/mathbiol.org/cloud4bio/2024/2024-07-10-jul)- whole-slide foundation model for digital pathology from real-world data.
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30 - 11:30</span> 
  * Online: <span style="background-color:yellow"> [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc1NmU2ZTYtN2JkMi00MjcyLThhMDYtOTk4MTI0ZDQ1ODFi%40thread.v2/0?context=%7b%22Tid%22%3a%2214b77578-9773-42d5-8507-251ca2dc2b06%22%2c%22Oid%22%3a%221d26bc06-66c2-4019-bbe0-149b4af11cff%22%7d)</span> (1174714549@teams.nih.gov). 
