@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Latest/Next session: <span style="background-color:yellow">[April 23, 29<sup></sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-04-23-apr)</span> Open session (most people away at [AACR Annual Meeting
+ * Latest/Next session: <span style="background-color:yellow">[April 23, 30<sup></sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-04-30-apr)</span> Open session (most people away at [AACR Annual Meeting
 April 25 - 30, 2025](https://www.aacr.org/meeting/aacr-annual-meeting-2025)
 ,Chicago, IL)
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
