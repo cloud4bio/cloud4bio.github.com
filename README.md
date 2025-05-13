@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Latest/Next session: <span style="background-color:yellow">[May 7<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-05-07-may)</span>: Director Townhall
+ * Latest/Next session: <span style="background-color:yellow">[May 14<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-05-14-may)</span>: Dissemination and governance of AI applications with Google Services.
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30 - 11:30</span> 
  * Online: <b style="color:maroon;background-color:yellow"> [MSTeams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDc1NmU2ZTYtN2JkMi00MjcyLThhMDYtOTk4MTI0ZDQ1ODFi%40thread.v2/0?context=%7b%22Tid%22%3a%2214b77578-9773-42d5-8507-251ca2dc2b06%22%2c%22Oid%22%3a%221d26bc06-66c2-4019-bbe0-149b4af11cff%22%7d)</b> (1174714549@teams.nih.gov). 
