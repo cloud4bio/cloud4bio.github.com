@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Next session: <span style="background-color:yellow">[July 9<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-07-09-jul)</span> <span style="color:maroon"> [GenAI - it's all about embeddings](https://bioinformatics.ccr.cancer.gov/btep/classes/generative-ai-its-all-about-embeddings)</span> <-- note this session is on the main campus.
+ * Next session: <span style="background-color:yellow">[July 9<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-07-09-jul)</span> <span style="color:maroon"> [GenAI - it's all about embeddings](https://bioinformatics.ccr.cancer.gov/btep/classes/generative-ai-its-all-about-embeddings)</span> <-- note this session is on the main campus, at 11am.
  * Latest session: <span style="background-color:yellow">[July 2<sup>nd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-07-02-jul)</span> <span style="color:maroon"> AlphaGenome, first impressions</span>
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30 - 11:30</span> 
