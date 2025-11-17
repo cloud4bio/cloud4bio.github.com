@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Next/Latest session: <span style="background-color:yellow">[Nov 19<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-11-19-nov)</span>
+ * Next/Latest session: <span style="background-color:yellow">[Nov 19<sup>th</sup>]([https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-11-19-nov](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-11-19-nov))</span>
  <hr>
  <h3 style="color:maroon">Paper Mills vs AI Scientists</h3>
  ...
