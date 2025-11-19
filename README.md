@@ -4,6 +4,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  <hr>
  <h3 style="color:maroon">Paper Mills vs AI Scientists</h3>
  ...
+ <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
  * Time: <span style="background-color:yellow">Wednesdays 9:30 - 11:30</span> 
