@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Next/Latest session: <span style="background-color:yellow">[Dec 03<sup>rd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-12-03-nov)</span>
+ * Next/Latest session: <span style="background-color:yellow">[Dec 03<sup>rd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-12-03-dec)</span>
  <hr>
  <h3 style="color:maroon">Latent spaces, health trajectories and manifolds</h3>
  <hr>
