@@ -1,8 +1,8 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Next/Latest session: <span style="background-color:yellow">[Nov 26<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-11-26-nov)</span>
+ * Next/Latest session: <span style="background-color:yellow">[Dec 03<sup>rd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-12-03-nov)</span>
  <hr>
- <h3 style="color:maroon">Modelling transitions with Gen AI</h3>
+ <h3 style="color:maroon">Latent spaces and health trajectories</h3>
  <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
