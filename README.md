@@ -1,8 +1,8 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/home)! 
 
- * Next/Latest session: <span style="background-color:yellow">[Dec 10<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2025/2025-12-10-dec)</span>
+ * Next/Latest session: <span style="background-color:yellow">[Jan 21<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-21-jan)</span> 
  <hr>
- <h3 style="color:maroon">phenotype embedding</h3>
+ <h3 style="color:maroon">embedding stores</h3>
  <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
