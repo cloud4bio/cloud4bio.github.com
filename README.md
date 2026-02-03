@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-28-jan)! 
 
- * Next / Latest session: <span style="background-color:yellow">[Jan 28<sup>th</sup> - Feb 04<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-28-jan)</span>
+ * Next / Latest session: <span style="background-color:yellow">[Jan 28<sup>th</sup> - Feb 04<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-28-jan)
  </span>
  <hr>
  <h3 style="color:maroon">Beyond LLM</h3>
