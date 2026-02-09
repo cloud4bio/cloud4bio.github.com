@@ -4,7 +4,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  </span>
  <hr>
  <h3 style="color:maroon">Stadman Investigator profile
- [Diptavo](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-02-11-feb)
+ [Diptavo Diptavo Dutta, Ph.D.](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-02-11-feb)
  </h3>
  <hr>
  
