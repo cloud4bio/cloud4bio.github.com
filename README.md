@@ -3,7 +3,9 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  * Next / Latest session: <span style="background-color:yellow">[Feb 11<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-02-11-feb)
  </span>
  <hr>
- <h3 style="color:maroon">Stadman Investigator profile</h3>
+ <h3 style="color:maroon">Stadman Investigator profile
+ [Diptavo](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-02-11-feb)
+ </h3>
  <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
