@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-28-jan)! 
 
- * Next / Latest session: <span style="background-color:yellow">[Feb 19<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-02-19-feb)</span>
+ * Next / Latest session: <span style="background-color:yellow">[Feb 18<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-02-18-feb)</span>
  <hr>
  <h3 style="color:maroon"> Open Agenda (CBIIT series): Robotics, Agents, and World (RAW) Models to Target Cancer</h3>
  <hr>
