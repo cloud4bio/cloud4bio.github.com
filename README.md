@@ -2,7 +2,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
 
  * Next / Latest session: <span style="background-color:yellow">[Mar 18<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-03-18-mar)</span>
  <hr>
- <h3 style="color:maroon"> Canceled, see you next week <p style="color:maroon;background-color:yellow"></p></h3>
+ <h3 style="color:maroon;background-color:yellow"> Canceled, see you next week </h3>
  <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
