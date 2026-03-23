@@ -1,6 +1,6 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-28-jan)! 
 
- * Next / Latest session: <span style="background-color:yellow">[Mar 18<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-03-18-mar)</span>
+ * Next / Latest session: <span style="background-color:yellow">[Mar 25<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-03-25-mar)</span>
  <hr>
  <h3 style="color:maroon;background-color:yellow">Foundation Models for Cancer: Advancing Diagnosis, Prognosis, and Treatment Response </h3>
  <hr>
