@@ -2,7 +2,9 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
 
  * Next / Latest session: <span style="background-color:yellow">[April 08<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-04-08-apr)</span>
  <hr>
- <h3 style="color:maroon;background-color:yellow">Claude is back ! </h3>
+ <h3 style="color:maroon;background-color:yellow">Claude is back ! 
+ <p>AI Embeddings for Cancer Research
+</p></h3>
  <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
