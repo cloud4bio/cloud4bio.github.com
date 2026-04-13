@@ -1,9 +1,9 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-28-jan)! 
 
- * Next / Latest session: <span style="background-color:yellow">[April 08<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-04-08-apr)</span>
+ * Next / Latest session: <span style="background-color:yellow">[April 16<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-04-16-apr)</span>
  <hr>
- <h3 style="color:maroon;background-color:yellow">Claude is back ! 
- <p>AI Embeddings for Cancer Research</p>
+ <h3 style="color:maroon;background-color:yellow">AI Embeddings for Cancer Research ! 
+ <p> --> (model free) AI first and AI Embeddings for Cancer Research</p>
  </h3>
  <hr>
  
