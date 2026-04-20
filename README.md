@@ -1,9 +1,9 @@
-Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-22-abr)! 
+Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-01-22-apr)! 
 
  * Next / Latest session: <span style="background-color:yellow">[April 22<sup>nd</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-04-22-apr)</span>
  <hr>
  <h3 style="color:maroon;background-color:yellow"><b>UK Biobank</b> 
- <p> data and models </p>
+ <p> data and models [lead by Lee Mason] </p>
  </h3>
  <hr>
  
