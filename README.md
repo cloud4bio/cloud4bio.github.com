@@ -3,7 +3,8 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  * Next / Latest session: <span style="background-color:yellow">[April 29<sup>th</sup>](https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-04-29-apr)</span>
  <hr>
  <h3 style="color:maroon;background-color:yellow"><b style="color:blue;size:big">focusing our (onnx) minds </b><br> 
- two papers proposed by Pete
+ two papers proposed by Pete<br>
+ Cancer Connect project retreat (3 weeks)<br>
  </h3>
  <hr>
  
