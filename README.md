@@ -5,7 +5,7 @@ Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](
  <h3 style="color:maroon;background-color:yellow"><b style="color:blue;size:big">focusing our (onnx) minds </b><br> 
  two papers proposed by Pete<br>
  Cancer Connect project retreat<br>
-  (3 weeks - <a href="https://en.wikipedia.org/wiki/Boids">May 6,13,20</a>)<br>
+  (3 weeks - <a href="https://en.wikipedia.org/wiki/Boids">May 6,7,8</a>)<br>
  </h3>
  <hr>
  
