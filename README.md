@@ -1,11 +1,8 @@
 Live at [cloud4bio.github.io](https://cloud4bio.github.io) + searcheable [Wiki](https://sites.google.com/mathbiol.org/cloud4bio/2026)! 
 
  <hr>
- <h3 style="color:maroon;background-color:yellow"><b style="color:blue;size:big">focusing our (onnx) minds </b><br> 
- two papers proposed by Pete<br>
- Cancer Connect project retreat<br>
-  (3 days - <a href="https://sites.google.com/mathbiol.org/cloud4bio/2026/2026-05-6_13_20-may" target="_blank">May 6,7,8</a>)<br>
- </h3>
+ Cloud4Bio: click yellow link below for live session
+ <br>(MSTeams, tipically on a Wednesday morning)
  <hr>
  
  * Location: <span style="background-color:yellow">Shady Grove building 7E030</span> 
